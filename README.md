@@ -1,0 +1,5 @@
+- 👋 Salut, je suis @Bear0100 
+- 👀 Je suis intéressé par Discord JS 
+- 🌱 J'apprends actuellement Discord js v13
+- 💞️ Je cherche à collaborer sur Discord 
+- 📫 Rejoin moi sur Discord Bear_#1323
